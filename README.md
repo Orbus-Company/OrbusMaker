@@ -26,4 +26,4 @@ Links:
 - [Github](https://github.com/Orbus-Company/OrbusMaker)
 
 Actualizaciones:
-- [ ] Soporte a STREAMLIT
+- [ ] Soporte a distintos lenguajes/frameworks
