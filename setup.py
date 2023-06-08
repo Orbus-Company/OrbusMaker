@@ -11,9 +11,9 @@ setup(
     description="An app skeleton creator, using CLI interface",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/OrbusCompany/OrbusMaker",
+    url="https://github.com/Orbus-Company/OrbusMaker",
     project_url={
-        "Bug Tracker": "https://github.com/OrbusCompany/OrbusMaker/issues",
+        "Bug Tracker": "https://github.com/Orbus-Company/OrbusMaker/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

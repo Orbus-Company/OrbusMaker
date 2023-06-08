@@ -23,7 +23,7 @@ Esto generara una carpeta donde estemos ubicados.
 
 Links:
 - [Pypi](https://pypi.org/project/Orbus/)
-- [Github](https://github.com/OrbusCompany/OrbusMaker)
+- [Github](https://github.com/Orbus-Company/OrbusMaker)
 
 Actualizaciones:
 - [ ] Soporte a STREAMLIT
