@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as ld:
 
 setup(
     name="OrbusMaker",
-    version="1.1.1",
+    version="1.1.3",
     author="Wilovy09",
     author_email="orbuscompany@gmail.com",
     description="An app skeleton creator, using CLI interface",

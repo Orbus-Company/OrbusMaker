@@ -20,6 +20,19 @@ python -m orbus create-flet-app
 
 Esto generara una carpeta donde estemos ubicados.
 
+Generara una carpeta como esta:
+
+```txt
+./
+ ┗ 📂flet-app
+ ┃ ┣ 📂pages
+ ┃ ┃ ┣ 📜view1.py
+ ┃ ┃ ┣ 📜view2.py
+ ┃ ┃ ┗ 📜view3.py
+ ┃ ┣ 📂public
+ ┃ ┗ 📜main.py
+
+```
 
 Links:
 - [Pypi](https://pypi.org/project/OrbusMaker/)
