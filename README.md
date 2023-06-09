@@ -1,4 +1,4 @@
-# Orbus
+8# Orbus
 
 Orbus es un creador de proyectos.
 
@@ -19,6 +19,19 @@ python -m orbus create-flet-app
 ```
 
 Esto generara una carpeta donde estemos ubicados.
+
+Esto es lo que se genera:
+
+```txt
+.
+├── flet-app/
+│   ├── pages/
+│   │   ├── view1.py
+│   │   ├── view2.py
+│   │   └── view3.py
+│   └── public
+└── main.py
+```
 
 
 Links:
