@@ -5,7 +5,7 @@ Orbus es un creador de proyectos.
 Puedes instalarlo con:
 
 ```bash
-pip install Orbus
+pip install OrbusMaker
 ```
 
 Para invocarlo hace falta usar el comando:
@@ -20,9 +20,19 @@ python -m orbus create-flet-app
 
 Esto generara una carpeta donde estemos ubicados.
 
+```txt
+.
+├── flet-app/
+│   ├── pages/
+│   │   ├── view1.py
+│   │   ├── view2.py
+│   │   └── view3.py
+│   └── public
+└── main.py
+```
 
 Links:
-- [Pypi](https://pypi.org/project/Orbus/)
+- [Pypi](https://pypi.org/project/OrbusMaker/)
 - [Github](https://github.com/Orbus-Company/OrbusMaker)
 
 Actualizaciones:

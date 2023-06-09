@@ -4,14 +4,15 @@ with open("README.md", "r", encoding="utf-8") as ld:
     long_description = ld.read()
 
 setup(
-    name="Orbus",
-    version="1.1.0",
+    name="OrbusMaker",
+    version="1.1.1",
     author="Wilovy09",
     author_email="orbuscompany@gmail.com",
     description="An app skeleton creator, using CLI interface",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Orbus-Company/OrbusMaker",
+    python_requires=">3.10",
     project_url={
         "Bug Tracker": "https://github.com/Orbus-Company/OrbusMaker/issues",
     },
